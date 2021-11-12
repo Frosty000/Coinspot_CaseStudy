@@ -19,7 +19,7 @@ Coinspot was incorporated in 2013 by Russell Wilson, with cryptpcurrencies rapid
 ## Landscape
 
 Coinspot operates exclusively in the cryptocurrecy trading space, the company has grown to be the number 1 trading platform for australian crypto-asset investors/traders. 
-- It's designed to be easy, accessible and user-friendly for both beginners and experienced cryptocurrency enthusiasts.
+- It's designed to be easy, accessible and user-friendly for both beginners and experienced cryptocurrency enthusiasts. In September of 2021 CoinSpot hit 2 million users, [Doubling its user base in just 6 months](https://www.businessinsider.com.au/coinspot-users-dogecoin-crypto-australia) 
 - Supports Approximately **308 cryptocurrencies**
 ### Payment methods accepted
 - Bank Transfer
@@ -46,5 +46,13 @@ Cointree is perceived as one of Coinspot's biggest rivals. Cointree was founded 
 
 ## Recommmendations
 
-- In my opinion the company has excelled in creating a great trading environment for traders and investors. A leap forward in their innnovation and a push forward in the direction of cryptocurrencies being mainstream would be implementation of a **CoinSpot Debit Card**, which CoinJar already has available to their users. CoinJar partnered with Mastercard and integrated with Apple Pay and Google Pay to allow their users to spend their cryptoassets like they would any other currency. *Its free to activate, has no monthly fee's and the usual 1% transaction fee's are returned to users in the form of an in-house loyalty program*.
+- In my opinion the company has excelled in creating a great trading environment for traders and investors. A leap forward in their innnovation and a push forward in the direction of cryptocurrencies being mainstream would be implementation of a **CoinSpot Debit Card**, which CoinJar already has available to their users. CoinJar partnered with Mastercard and integrated with Apple Pay and Google Pay to allow their users to spend their cryptoassets like they would any other currency. For example CoinJar's Debit Card *Is free to activate, has no monthly fee's and the usual 1% transaction fee's are returned to users in the form of an in-house loyalty program*. 
+
+[CoinJar launches crypto-to-fiat Mastercard card in Australia](https://www.finextra.com/pressarticle/88826/coinjar-launches-crypto-to-fiat-mastercard-card-in-australia)
+
+EML Payments (ASX: EML) (S&P/ASX 200) and CoinJar, Australia’s longest-running cryptocurrency exchange, are taking crypto into the mainstream with CoinJar Card. The collaboration will make it simple for cardholders to pay using cryptocurrency via a digital or physical card wherever Mastercard is accepted.CoinJar has already helped users conduct billions of dollars' worth of transactions in Bitcoin, Ethereum and other cryptocurrencies. CoinJar Card gives those users a simple, secure and seamless way to bring their crypto into the real world, one purchase at a time. With more than 500,000 customers in Australia and the U.K., CoinJar has already helped users conduct billions of dollars' worth of transactions in Bitcoin, Ethereum and other cryptocurrencies. CoinJar Card gives those users a simple, secure and seamless way to bring their crypto into the real world, one purchase at a time.[1]
+
+
+
+1. https://www.finextra.com/pressarticle/88826/coinjar-launches-crypto-to-fiat-mastercard-card-in-australia
 
